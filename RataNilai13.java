@@ -21,7 +21,7 @@ public class RataNilai13 {
                 i++;
             }
         
-        
+        acc.close();
         }
     }
 
